@@ -1,4 +1,4 @@
-# Content Ops Starter
+# Content Ops Starter!
 
 ![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
 
